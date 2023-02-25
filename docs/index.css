@@ -82,3 +82,12 @@ footer {
     text-align: center;
     height: 0.5rem;
 }
+
+.link-title {
+    margin-top: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+.link-section {
+    padding: 2rem;
+}
