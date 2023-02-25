@@ -15,6 +15,13 @@ p, h1, h2, h3 {
     margin-left: 3rem;
 }
 
+.section-box {
+    margin: 3rem auto;
+}
+
+.header-img-box {
+}
+
 .header-section {
     background-color: #0F52BA;
     color: white;
@@ -28,12 +35,50 @@ p, h1, h2, h3 {
 
 .sub-header {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     font-weight: 700;
+    margin: 1rem auto 2rem auto;
+}
+
+.avatar-img {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+
+.team-item {
+    text-align: center;
 }
 
 .introduction-section {
-    padding-top: 3rem;
-    padding: 2rem;
+    padding-top: 3.5rem;
+    padding: 3rem;
+}
+
+.content-item-box {
+    padding: 1rem;
+}
+
+.content-item {
+    text-align: center;
+    background-color: #73C2FB;
+    margin: 1rem auto;
+    padding: 1.5rem;
+    height: 12rem;
+    width: 12rem;
+    border-radius: 0.5rem;
+    color: black;
+    font-weight: 700;
+}
+
+.content-icon {
+    display: block;
+    width: 3rem;
+    height: 3rem;
+    margin: 0 auto 1rem auto;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    height: 0.5rem;
 }
